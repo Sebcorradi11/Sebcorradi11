@@ -55,13 +55,14 @@
 
 ---
 
-### 🤝 Conectemos
+## Conectemos
 <p align="left">
-<a href="https://linkedin.com/in/sebastiano-corradi-035580339/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://dev.to/sebcorradi11" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-</a>
+  <a href="mailto:Sebastianocorradi11@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
+
 
