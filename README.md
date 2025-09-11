@@ -60,7 +60,7 @@
   <a href="mailto:Sebastianocorradi11@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/sebastiano-corradi-035580339/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
