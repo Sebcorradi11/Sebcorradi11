@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Sebastiano Corradi</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas | 21 años | Analista de Sistemas en formación</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas | 22 años | Analista de Sistemas en formación</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sebcorradi11&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="sebcorradi11" />
