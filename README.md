@@ -38,7 +38,6 @@
 
 ### 🚀 Proyectos destacados
 - 🌐 **Bienal de Chaco (Front-End)** → [Repositorio](https://github.com/Sebcorradi11/Bienal-Front-End)  
-- 🎮 **Tetris Paradigmas** → [Repositorio](https://github.com/Sebcorradi11/tetris-paradigmas)  
 - ⚙️ **Proyecto NodeJS + Express** → [Repositorio](https://github.com/Sebcorradi11/ProyectoConNodeJS-Express)  
 - 🍎 **Proyecto Nutrición (Front-End)** → [Repositorio](https://github.com/Sebcorradi11/Front-End)  
 
