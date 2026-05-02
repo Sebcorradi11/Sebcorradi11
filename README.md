@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 Sobre mí
-- 🎓 Actualmente cursando **3er año de Ingeniería en Sistemas** en la UCP.  
-- 📜 Próximo a recibirme como **Analista de Sistemas**.  
-- 🌱 Me interesa el **desarrollo full-stack**, la **simulación de sistemas** y las **buenas prácticas de software**.  
+- 🎓 Actualmente cursando **4to año de Ingeniería en Sistemas** en la UCP.  
+- 📜 Recibido en **Analista de Sistemas**.  
+- 🌱 Me interesa el **desarrollo full-stack" y las **buenas prácticas de software**.  
 - 👯 Experiencia en proyectos académicos y colaborativos, como el desarrollo de una **página web para la Bienal de Chaco** → [Bienal Front-End](https://github.com/Sebcorradi11/Bienal-Front-End).  
 - ⚡ Me motiva crear soluciones prácticas con **código limpio, documentado y mantenible**.  
 
